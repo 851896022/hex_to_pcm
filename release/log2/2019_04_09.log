@@ -1,0 +1,302 @@
+2019-04-09 11:10:10: 2000 0
+2019-04-09 11:10:10: "172.1.52.151:2001|卫星接收机-1|卫星接收机-2|卫星接收机-3|卫星接收机-4|卫星接收机-5|卫星接收机-6|自动切换器-7|自动切换器-8|自动切换器-9|自动切换器-10|自动切换器-11|自动切换器-12|音频处理器-13|音频处理器-14|音频处理器-15|音频处理器-16|音频处理器-17|音频处理器-18|\r\n"
+2019-04-09 11:10:10: "172.1.52.152:2002|1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|16|17|18|\r\n"
+2019-04-09 11:10:10: "172.1.52.153:2003|1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|16|17|18|"
+2019-04-09 11:10:10: 0 ("50001", "Y2gwMDHljavmmJ/mjqXmlLbmnLotMQ==", "D:/mp3654")
+2019-04-09 11:10:10: QProcess::ProcessState(NotRunning)
+2019-04-09 11:10:10: 0 ("50011", "Y2gwMDLljavmmJ/mjqXmlLbmnLotMg==", "D:/mp3654")
+2019-04-09 11:10:10: QProcess::ProcessState(NotRunning)
+2019-04-09 11:10:10: 0 ("50021", "Y2gwMDPljavmmJ/mjqXmlLbmnLotMw==", "D:/mp3654")
+2019-04-09 11:10:10: QProcess::ProcessState(NotRunning)
+2019-04-09 11:10:10: 0 ("50031", "Y2gwMDTljavmmJ/mjqXmlLbmnLotNA==", "D:/mp3654")
+2019-04-09 11:10:10: QProcess::ProcessState(NotRunning)
+2019-04-09 11:10:10: 0 ("50041", "Y2gwMDXljavmmJ/mjqXmlLbmnLotNQ==", "D:/mp3654")
+2019-04-09 11:10:10: QProcess::ProcessState(NotRunning)
+2019-04-09 11:10:10: 0 ("50051", "Y2gwMDbljavmmJ/mjqXmlLbmnLotNg==", "D:/mp3654")
+2019-04-09 11:10:10: QProcess::ProcessState(NotRunning)
+2019-04-09 11:10:10: 0 ("50061", "Y2gwMDfoh6rliqjliIfmjaLlmagtNw==", "D:/mp3654")
+2019-04-09 11:10:10: QProcess::ProcessState(NotRunning)
+2019-04-09 11:10:10: 0 ("50071", "Y2gwMDjoh6rliqjliIfmjaLlmagtOA==", "D:/mp3654")
+2019-04-09 11:10:10: QProcess::ProcessState(NotRunning)
+2019-04-09 11:10:10: 0 ("50081", "Y2gwMDnoh6rliqjliIfmjaLlmagtOQ==", "D:/mp3654")
+2019-04-09 11:10:10: QProcess::ProcessState(NotRunning)
+2019-04-09 11:10:10: 0 ("50091", "Y2gwMTDoh6rliqjliIfmjaLlmagtMTA=", "D:/mp3654")
+2019-04-09 11:10:11: QProcess::ProcessState(NotRunning)
+2019-04-09 11:10:11: 0 ("50101", "Y2gwMTHoh6rliqjliIfmjaLlmagtMTE=", "D:/mp3654")
+2019-04-09 11:10:11: QProcess::ProcessState(NotRunning)
+2019-04-09 11:10:11: 0 ("50111", "Y2gwMTLoh6rliqjliIfmjaLlmagtMTI=", "D:/mp3654")
+2019-04-09 11:10:11: QProcess::ProcessState(NotRunning)
+2019-04-09 11:10:11: 0 ("50121", "Y2gwMTPpn7PpopHlpITnkIblmagtMTM=", "D:/mp3654")
+2019-04-09 11:10:11: QProcess::ProcessState(NotRunning)
+2019-04-09 11:10:11: 0 ("50131", "Y2gwMTTpn7PpopHlpITnkIblmagtMTQ=", "D:/mp3654")
+2019-04-09 11:10:11: QProcess::ProcessState(NotRunning)
+2019-04-09 11:10:11: 0 ("50141", "Y2gwMTXpn7PpopHlpITnkIblmagtMTU=", "D:/mp3654")
+2019-04-09 11:10:11: QProcess::ProcessState(NotRunning)
+2019-04-09 11:10:11: 0 ("50151", "Y2gwMTbpn7PpopHlpITnkIblmagtMTY=", "D:/mp3654")
+2019-04-09 11:10:11: QProcess::ProcessState(NotRunning)
+2019-04-09 11:10:11: 0 ("50161", "Y2gwMTfpn7PpopHlpITnkIblmagtMTc=", "D:/mp3654")
+2019-04-09 11:10:11: QProcess::ProcessState(NotRunning)
+2019-04-09 11:10:11: 0 ("50171", "Y2gwMTjpn7PpopHlpITnkIblmagtMTg=", "D:/mp3654")
+2019-04-09 11:10:11: QProcess::ProcessState(NotRunning)
+2019-04-09 11:10:14: 0 reboot hexReceiver
+2019-04-09 11:10:17: 0 reboot hexReceiver
+2019-04-09 11:10:20: 0 reboot hexReceiver
+2019-04-09 11:10:23: 0 reboot hexReceiver
+2019-04-09 11:10:26: 0 reboot hexReceiver
+2019-04-09 11:10:29: 0 reboot hexReceiver
+2019-04-09 11:10:32: 0 reboot hexReceiver
+2019-04-09 11:10:35: 0 reboot hexReceiver
+2019-04-09 11:10:38: 0 reboot hexReceiver
+2019-04-09 11:10:41: 0 reboot hexReceiver
+2019-04-09 11:10:44: 0 reboot hexReceiver
+2019-04-09 11:10:47: 0 reboot hexReceiver
+2019-04-09 11:10:50: 0 reboot hexReceiver
+2019-04-09 11:10:53: 0 reboot hexReceiver
+2019-04-09 11:10:56: 0 reboot hexReceiver
+2019-04-09 11:10:59: 0 reboot hexReceiver
+2019-04-09 11:11:02: 0 reboot hexReceiver
+2019-04-09 11:11:05: 0 reboot hexReceiver
+2019-04-09 11:11:08: 0 reboot hexReceiver
+2019-04-09 11:11:11: 0 reboot hexReceiver
+2019-04-09 11:11:14: 0 reboot hexReceiver
+2019-04-09 11:11:17: 0 reboot hexReceiver
+2019-04-09 11:11:20: 0 reboot hexReceiver
+2019-04-09 11:11:23: 0 reboot hexReceiver
+2019-04-09 11:11:30: 2000 0
+2019-04-09 11:11:30: "172.1.52.151:2001|卫星接收机-1|卫星接收机-2|卫星接收机-3|卫星接收机-4|卫星接收机-5|卫星接收机-6|自动切换器-7|自动切换器-8|自动切换器-9|自动切换器-10|自动切换器-11|自动切换器-12|音频处理器-13|音频处理器-14|音频处理器-15|音频处理器-16|音频处理器-17|音频处理器-18|\r\n"
+2019-04-09 11:11:30: "172.1.52.152:2002|1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|16|17|18|\r\n"
+2019-04-09 11:11:30: "172.1.52.153:2003|1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|16|17|18|"
+2019-04-09 11:11:30: 0 ("50001", "Y2gwMDHljavmmJ/mjqXmlLbmnLotMQ==", "D:/mp3654")
+2019-04-09 11:11:30: QProcess::ProcessState(NotRunning)
+2019-04-09 11:11:30: 0 ("50011", "Y2gwMDLljavmmJ/mjqXmlLbmnLotMg==", "D:/mp3654")
+2019-04-09 11:11:30: QProcess::ProcessState(NotRunning)
+2019-04-09 11:11:30: 0 ("50021", "Y2gwMDPljavmmJ/mjqXmlLbmnLotMw==", "D:/mp3654")
+2019-04-09 11:11:30: QProcess::ProcessState(NotRunning)
+2019-04-09 11:11:30: 0 ("50031", "Y2gwMDTljavmmJ/mjqXmlLbmnLotNA==", "D:/mp3654")
+2019-04-09 11:11:30: QProcess::ProcessState(NotRunning)
+2019-04-09 11:11:30: 0 ("50041", "Y2gwMDXljavmmJ/mjqXmlLbmnLotNQ==", "D:/mp3654")
+2019-04-09 11:11:30: QProcess::ProcessState(NotRunning)
+2019-04-09 11:11:30: 0 ("50051", "Y2gwMDbljavmmJ/mjqXmlLbmnLotNg==", "D:/mp3654")
+2019-04-09 11:11:30: QProcess::ProcessState(NotRunning)
+2019-04-09 11:11:30: 0 ("50061", "Y2gwMDfoh6rliqjliIfmjaLlmagtNw==", "D:/mp3654")
+2019-04-09 11:11:30: QProcess::ProcessState(NotRunning)
+2019-04-09 11:11:30: 0 ("50071", "Y2gwMDjoh6rliqjliIfmjaLlmagtOA==", "D:/mp3654")
+2019-04-09 11:11:30: QProcess::ProcessState(NotRunning)
+2019-04-09 11:11:30: 0 ("50081", "Y2gwMDnoh6rliqjliIfmjaLlmagtOQ==", "D:/mp3654")
+2019-04-09 11:11:30: QProcess::ProcessState(NotRunning)
+2019-04-09 11:11:30: 0 ("50091", "Y2gwMTDoh6rliqjliIfmjaLlmagtMTA=", "D:/mp3654")
+2019-04-09 11:11:30: QProcess::ProcessState(NotRunning)
+2019-04-09 11:11:30: 0 ("50101", "Y2gwMTHoh6rliqjliIfmjaLlmagtMTE=", "D:/mp3654")
+2019-04-09 11:11:30: QProcess::ProcessState(NotRunning)
+2019-04-09 11:11:30: 0 ("50111", "Y2gwMTLoh6rliqjliIfmjaLlmagtMTI=", "D:/mp3654")
+2019-04-09 11:11:30: QProcess::ProcessState(NotRunning)
+2019-04-09 11:11:30: 0 ("50121", "Y2gwMTPpn7PpopHlpITnkIblmagtMTM=", "D:/mp3654")
+2019-04-09 11:11:30: QProcess::ProcessState(NotRunning)
+2019-04-09 11:11:30: 0 ("50131", "Y2gwMTTpn7PpopHlpITnkIblmagtMTQ=", "D:/mp3654")
+2019-04-09 11:11:30: QProcess::ProcessState(NotRunning)
+2019-04-09 11:11:30: 0 ("50141", "Y2gwMTXpn7PpopHlpITnkIblmagtMTU=", "D:/mp3654")
+2019-04-09 11:11:30: QProcess::ProcessState(NotRunning)
+2019-04-09 11:11:30: 0 ("50151", "Y2gwMTbpn7PpopHlpITnkIblmagtMTY=", "D:/mp3654")
+2019-04-09 11:11:30: QProcess::ProcessState(NotRunning)
+2019-04-09 11:11:30: 0 ("50161", "Y2gwMTfpn7PpopHlpITnkIblmagtMTc=", "D:/mp3654")
+2019-04-09 11:11:30: QProcess::ProcessState(NotRunning)
+2019-04-09 11:11:30: 0 ("50171", "Y2gwMTjpn7PpopHlpITnkIblmagtMTg=", "D:/mp3654")
+2019-04-09 11:11:30: QProcess::ProcessState(NotRunning)
+2019-04-09 11:11:33: 0 reboot hexReceiver
+2019-04-09 11:11:36: 0 reboot hexReceiver
+2019-04-09 11:11:39: 0 reboot hexReceiver
+2019-04-09 11:11:42: 0 reboot hexReceiver
+2019-04-09 11:11:45: 0 reboot hexReceiver
+2019-04-09 11:11:48: 0 reboot hexReceiver
+2019-04-09 11:11:51: 0 reboot hexReceiver
+2019-04-09 11:11:54: 0 reboot hexReceiver
+2019-04-09 11:11:57: 0 reboot hexReceiver
+2019-04-09 11:12:00: 0 reboot hexReceiver
+2019-04-09 11:12:03: 0 reboot hexReceiver
+2019-04-09 11:12:10: 2000 0
+2019-04-09 11:12:10: "172.1.52.151:2001|卫星接收机-1|卫星接收机-2|卫星接收机-3|卫星接收机-4|卫星接收机-5|卫星接收机-6|自动切换器-7|自动切换器-8|自动切换器-9|自动切换器-10|自动切换器-11|自动切换器-12|音频处理器-13|音频处理器-14|音频处理器-15|音频处理器-16|音频处理器-17|音频处理器-18|\r\n"
+2019-04-09 11:12:10: "172.1.52.152:2002|1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|16|17|18|\r\n"
+2019-04-09 11:12:10: "172.1.52.153:2003|1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|16|17|18|"
+2019-04-09 11:12:10: 0 ("50001", "Y2gwMDHljavmmJ/mjqXmlLbmnLotMQ==", "D:/mp3654")
+2019-04-09 11:12:10: QProcess::ProcessState(NotRunning)
+2019-04-09 11:12:10: 0 ("50011", "Y2gwMDLljavmmJ/mjqXmlLbmnLotMg==", "D:/mp3654")
+2019-04-09 11:12:10: QProcess::ProcessState(NotRunning)
+2019-04-09 11:12:10: 0 ("50021", "Y2gwMDPljavmmJ/mjqXmlLbmnLotMw==", "D:/mp3654")
+2019-04-09 11:12:10: QProcess::ProcessState(NotRunning)
+2019-04-09 11:12:10: 0 ("50031", "Y2gwMDTljavmmJ/mjqXmlLbmnLotNA==", "D:/mp3654")
+2019-04-09 11:12:10: QProcess::ProcessState(NotRunning)
+2019-04-09 11:12:10: 0 ("50041", "Y2gwMDXljavmmJ/mjqXmlLbmnLotNQ==", "D:/mp3654")
+2019-04-09 11:12:10: QProcess::ProcessState(NotRunning)
+2019-04-09 11:12:10: 0 ("50051", "Y2gwMDbljavmmJ/mjqXmlLbmnLotNg==", "D:/mp3654")
+2019-04-09 11:12:10: QProcess::ProcessState(NotRunning)
+2019-04-09 11:12:10: 0 ("50061", "Y2gwMDfoh6rliqjliIfmjaLlmagtNw==", "D:/mp3654")
+2019-04-09 11:12:10: QProcess::ProcessState(NotRunning)
+2019-04-09 11:12:10: 0 ("50071", "Y2gwMDjoh6rliqjliIfmjaLlmagtOA==", "D:/mp3654")
+2019-04-09 11:12:11: QProcess::ProcessState(NotRunning)
+2019-04-09 11:12:11: 0 ("50081", "Y2gwMDnoh6rliqjliIfmjaLlmagtOQ==", "D:/mp3654")
+2019-04-09 11:12:11: QProcess::ProcessState(NotRunning)
+2019-04-09 11:12:11: 0 ("50091", "Y2gwMTDoh6rliqjliIfmjaLlmagtMTA=", "D:/mp3654")
+2019-04-09 11:12:11: QProcess::ProcessState(NotRunning)
+2019-04-09 11:12:11: 0 ("50101", "Y2gwMTHoh6rliqjliIfmjaLlmagtMTE=", "D:/mp3654")
+2019-04-09 11:12:11: QProcess::ProcessState(NotRunning)
+2019-04-09 11:12:11: 0 ("50111", "Y2gwMTLoh6rliqjliIfmjaLlmagtMTI=", "D:/mp3654")
+2019-04-09 11:12:11: QProcess::ProcessState(NotRunning)
+2019-04-09 11:12:11: 0 ("50121", "Y2gwMTPpn7PpopHlpITnkIblmagtMTM=", "D:/mp3654")
+2019-04-09 11:12:11: QProcess::ProcessState(NotRunning)
+2019-04-09 11:12:11: 0 ("50131", "Y2gwMTTpn7PpopHlpITnkIblmagtMTQ=", "D:/mp3654")
+2019-04-09 11:12:11: QProcess::ProcessState(NotRunning)
+2019-04-09 11:12:11: 0 ("50141", "Y2gwMTXpn7PpopHlpITnkIblmagtMTU=", "D:/mp3654")
+2019-04-09 11:12:11: QProcess::ProcessState(NotRunning)
+2019-04-09 11:12:11: 0 ("50151", "Y2gwMTbpn7PpopHlpITnkIblmagtMTY=", "D:/mp3654")
+2019-04-09 11:12:11: QProcess::ProcessState(NotRunning)
+2019-04-09 11:12:11: 0 ("50161", "Y2gwMTfpn7PpopHlpITnkIblmagtMTc=", "D:/mp3654")
+2019-04-09 11:12:11: QProcess::ProcessState(NotRunning)
+2019-04-09 11:12:11: 0 ("50171", "Y2gwMTjpn7PpopHlpITnkIblmagtMTg=", "D:/mp3654")
+2019-04-09 11:12:11: QProcess::ProcessState(NotRunning)
+2019-04-09 11:12:14: 0 reboot hexReceiver
+2019-04-09 11:12:17: 0 reboot hexReceiver
+2019-04-09 11:12:20: 0 reboot hexReceiver
+2019-04-09 11:12:23: 0 reboot hexReceiver
+2019-04-09 11:12:26: 0 reboot hexReceiver
+2019-04-09 11:12:29: 0 reboot hexReceiver
+2019-04-09 11:12:32: 0 reboot hexReceiver
+2019-04-09 11:12:35: 0 reboot hexReceiver
+2019-04-09 11:12:38: 0 reboot hexReceiver
+2019-04-09 11:12:41: 0 reboot hexReceiver
+2019-04-09 11:12:44: 0 reboot hexReceiver
+2019-04-09 11:12:47: 0 reboot hexReceiver
+2019-04-09 11:12:50: 0 reboot hexReceiver
+2019-04-09 11:12:53: 0 reboot hexReceiver
+2019-04-09 11:12:56: 0 reboot hexReceiver
+2019-04-09 11:12:59: 0 reboot hexReceiver
+2019-04-09 11:13:02: 0 reboot hexReceiver
+2019-04-09 11:13:05: 0 reboot hexReceiver
+2019-04-09 11:13:08: 0 reboot hexReceiver
+2019-04-09 11:13:11: 0 reboot hexReceiver
+2019-04-09 11:13:14: 0 reboot hexReceiver
+2019-04-09 11:13:17: 0 reboot hexReceiver
+2019-04-09 11:13:20: 0 reboot hexReceiver
+2019-04-09 11:13:23: 0 reboot hexReceiver
+2019-04-09 11:13:26: 0 reboot hexReceiver
+2019-04-09 11:13:29: 0 reboot hexReceiver
+2019-04-09 11:13:32: 0 reboot hexReceiver
+2019-04-09 11:13:35: 0 reboot hexReceiver
+2019-04-09 11:13:38: 0 reboot hexReceiver
+2019-04-09 11:13:41: 0 reboot hexReceiver
+2019-04-09 11:13:44: 0 reboot hexReceiver
+2019-04-09 11:13:47: 0 reboot hexReceiver
+2019-04-09 11:13:50: 0 reboot hexReceiver
+2019-04-09 11:13:53: 0 reboot hexReceiver
+2019-04-09 11:13:56: 0 reboot hexReceiver
+2019-04-09 11:13:59: 0 reboot hexReceiver
+2019-04-09 11:14:02: 0 reboot hexReceiver
+2019-04-09 11:14:05: 0 reboot hexReceiver
+2019-04-09 11:14:08: 0 reboot hexReceiver
+2019-04-09 11:14:11: 0 reboot hexReceiver
+2019-04-09 11:14:14: 0 reboot hexReceiver
+2019-04-09 11:14:17: 0 reboot hexReceiver
+2019-04-09 11:14:20: 0 reboot hexReceiver
+2019-04-09 11:14:23: 0 reboot hexReceiver
+2019-04-09 11:14:26: 0 reboot hexReceiver
+2019-04-09 11:14:29: 0 reboot hexReceiver
+2019-04-09 11:14:32: 0 reboot hexReceiver
+2019-04-09 11:14:35: 0 reboot hexReceiver
+2019-04-09 11:14:38: 0 reboot hexReceiver
+2019-04-09 11:14:41: 0 reboot hexReceiver
+2019-04-09 11:14:44: 0 reboot hexReceiver
+2019-04-09 11:14:47: 0 reboot hexReceiver
+2019-04-09 11:14:50: 0 reboot hexReceiver
+2019-04-09 11:14:53: 0 reboot hexReceiver
+2019-04-09 11:14:56: 0 reboot hexReceiver
+2019-04-09 11:14:59: 0 reboot hexReceiver
+2019-04-09 11:15:02: 0 reboot hexReceiver
+2019-04-09 11:15:05: 0 reboot hexReceiver
+2019-04-09 11:15:08: 0 reboot hexReceiver
+2019-04-09 11:15:11: 0 reboot hexReceiver
+2019-04-09 11:15:14: 0 reboot hexReceiver
+2019-04-09 11:15:17: 0 reboot hexReceiver
+2019-04-09 11:15:20: 0 reboot hexReceiver
+2019-04-09 11:15:23: 0 reboot hexReceiver
+2019-04-09 11:15:26: 0 reboot hexReceiver
+2019-04-09 11:15:29: 0 reboot hexReceiver
+2019-04-09 11:15:32: 0 reboot hexReceiver
+2019-04-09 11:15:35: 0 reboot hexReceiver
+2019-04-09 11:15:38: 0 reboot hexReceiver
+2019-04-09 11:15:41: 0 reboot hexReceiver
+2019-04-09 11:15:44: 0 reboot hexReceiver
+2019-04-09 11:15:47: 0 reboot hexReceiver
+2019-04-09 11:15:50: 0 reboot hexReceiver
+2019-04-09 11:15:53: 0 reboot hexReceiver
+2019-04-09 11:15:56: 0 reboot hexReceiver
+2019-04-09 11:15:59: 0 reboot hexReceiver
+2019-04-09 11:16:02: 0 reboot hexReceiver
+2019-04-09 11:16:05: 0 reboot hexReceiver
+2019-04-09 11:16:08: 0 reboot hexReceiver
+2019-04-09 11:16:11: 0 reboot hexReceiver
+2019-04-09 11:16:14: 0 reboot hexReceiver
+2019-04-09 11:16:17: 0 reboot hexReceiver
+2019-04-09 11:16:20: 0 reboot hexReceiver
+2019-04-09 11:16:23: 0 reboot hexReceiver
+2019-04-09 11:16:26: 0 reboot hexReceiver
+2019-04-09 11:16:29: 0 reboot hexReceiver
+2019-04-09 11:16:34: 2000 0
+2019-04-09 11:16:34: "172.1.52.151:2001|卫星接收机-1|卫星接收机-2|卫星接收机-3|卫星接收机-4|卫星接收机-5|卫星接收机-6|自动切换器-7|自动切换器-8|自动切换器-9|自动切换器-10|自动切换器-11|自动切换器-12|音频处理器-13|音频处理器-14|音频处理器-15|音频处理器-16|音频处理器-17|音频处理器-18|\r\n"
+2019-04-09 11:16:34: "172.1.52.152:2002|1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|16|17|18|\r\n"
+2019-04-09 11:16:34: "172.1.52.153:2003|1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|16|17|18|"
+2019-04-09 11:16:34: 0 ("50001", "Y2gwMDHljavmmJ/mjqXmlLbmnLotMQ==", "D:/mp3654")
+2019-04-09 11:16:34: QProcess::ProcessState(NotRunning)
+2019-04-09 11:16:34: 0 ("50011", "Y2gwMDLljavmmJ/mjqXmlLbmnLotMg==", "D:/mp3654")
+2019-04-09 11:16:34: QProcess::ProcessState(NotRunning)
+2019-04-09 11:16:34: 0 ("50021", "Y2gwMDPljavmmJ/mjqXmlLbmnLotMw==", "D:/mp3654")
+2019-04-09 11:16:34: QProcess::ProcessState(NotRunning)
+2019-04-09 11:16:34: 0 ("50031", "Y2gwMDTljavmmJ/mjqXmlLbmnLotNA==", "D:/mp3654")
+2019-04-09 11:16:35: QProcess::ProcessState(NotRunning)
+2019-04-09 11:16:35: 0 ("50041", "Y2gwMDXljavmmJ/mjqXmlLbmnLotNQ==", "D:/mp3654")
+2019-04-09 11:16:35: QProcess::ProcessState(NotRunning)
+2019-04-09 11:16:35: 0 ("50051", "Y2gwMDbljavmmJ/mjqXmlLbmnLotNg==", "D:/mp3654")
+2019-04-09 11:16:35: QProcess::ProcessState(NotRunning)
+2019-04-09 11:16:35: 0 ("50061", "Y2gwMDfoh6rliqjliIfmjaLlmagtNw==", "D:/mp3654")
+2019-04-09 11:16:35: QProcess::ProcessState(NotRunning)
+2019-04-09 11:16:35: 0 ("50071", "Y2gwMDjoh6rliqjliIfmjaLlmagtOA==", "D:/mp3654")
+2019-04-09 11:16:35: QProcess::ProcessState(NotRunning)
+2019-04-09 11:16:35: 0 ("50081", "Y2gwMDnoh6rliqjliIfmjaLlmagtOQ==", "D:/mp3654")
+2019-04-09 11:16:35: QProcess::ProcessState(NotRunning)
+2019-04-09 11:16:35: 0 ("50091", "Y2gwMTDoh6rliqjliIfmjaLlmagtMTA=", "D:/mp3654")
+2019-04-09 11:16:35: QProcess::ProcessState(NotRunning)
+2019-04-09 11:16:35: 0 ("50101", "Y2gwMTHoh6rliqjliIfmjaLlmagtMTE=", "D:/mp3654")
+2019-04-09 11:16:35: QProcess::ProcessState(NotRunning)
+2019-04-09 11:16:35: 0 ("50111", "Y2gwMTLoh6rliqjliIfmjaLlmagtMTI=", "D:/mp3654")
+2019-04-09 11:16:35: QProcess::ProcessState(NotRunning)
+2019-04-09 11:16:35: 0 ("50121", "Y2gwMTPpn7PpopHlpITnkIblmagtMTM=", "D:/mp3654")
+2019-04-09 11:16:35: QProcess::ProcessState(NotRunning)
+2019-04-09 11:16:35: 0 ("50131", "Y2gwMTTpn7PpopHlpITnkIblmagtMTQ=", "D:/mp3654")
+2019-04-09 11:16:35: QProcess::ProcessState(NotRunning)
+2019-04-09 11:16:35: 0 ("50141", "Y2gwMTXpn7PpopHlpITnkIblmagtMTU=", "D:/mp3654")
+2019-04-09 11:16:35: QProcess::ProcessState(NotRunning)
+2019-04-09 11:16:35: 0 ("50151", "Y2gwMTbpn7PpopHlpITnkIblmagtMTY=", "D:/mp3654")
+2019-04-09 11:16:35: QProcess::ProcessState(NotRunning)
+2019-04-09 11:16:35: 0 ("50161", "Y2gwMTfpn7PpopHlpITnkIblmagtMTc=", "D:/mp3654")
+2019-04-09 11:16:35: QProcess::ProcessState(NotRunning)
+2019-04-09 11:16:35: 0 ("50171", "Y2gwMTjpn7PpopHlpITnkIblmagtMTg=", "D:/mp3654")
+2019-04-09 11:16:35: QProcess::ProcessState(NotRunning)
+2019-04-09 11:16:38: 0 reboot hexReceiver
+2019-04-09 11:16:41: 0 reboot hexReceiver
+2019-04-09 11:16:44: 0 reboot hexReceiver
+2019-04-09 11:16:47: 0 reboot hexReceiver
+2019-04-09 11:16:50: 0 reboot hexReceiver
+2019-04-09 11:16:53: 0 reboot hexReceiver
+2019-04-09 11:16:56: 0 reboot hexReceiver
+2019-04-09 11:16:59: 0 reboot hexReceiver
+2019-04-09 11:17:02: 0 reboot hexReceiver
+2019-04-09 11:17:05: 0 reboot hexReceiver
+2019-04-09 11:17:08: 0 reboot hexReceiver
+2019-04-09 11:17:11: 0 reboot hexReceiver
+2019-04-09 11:17:14: 0 reboot hexReceiver
+2019-04-09 11:17:17: 0 reboot hexReceiver
+2019-04-09 11:17:20: 0 reboot hexReceiver
+2019-04-09 11:17:23: 0 reboot hexReceiver
+2019-04-09 11:17:26: 0 reboot hexReceiver
+2019-04-09 11:17:29: 0 reboot hexReceiver
+2019-04-09 11:17:32: 0 reboot hexReceiver
+2019-04-09 11:17:35: 0 reboot hexReceiver
+2019-04-09 11:17:38: 0 reboot hexReceiver
