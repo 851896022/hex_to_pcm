@@ -107,7 +107,8 @@ void hexReceiver::OnudpSocketReceive()
                     apm[i]=(ch[(2*i)+4]*256)+ch[(2*i)+5];
                     if(apm[i]<150) apm[i]=1;
                     if(apm[i]==0)  apm[i]=1;
-                    double ret=((1.42*20.0*log10(apm[i])-30.0)-30.0)*1.50;
+                    double ret=((1.42*20.0*log10(apm[i])-30.0)-30.0)*1.50*g->M;
+
                     apm[i]=int(ret);
                     if(apm[i]<0)  apm[i]=0;
                     if(apm[i]>99) apm[i]=99;

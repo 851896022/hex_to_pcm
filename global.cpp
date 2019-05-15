@@ -2,7 +2,33 @@
 
 global::global(QObject *parent) : QObject(parent)
 {
+    //隐藏功能，修改彩条高度
+    M=1.0;
+    {
+        QString filename;
+        filename+=(qApp->applicationDirPath()+"/sav/multiple.sav");
+        //判断文件是否存在
+        QFile *file = new QFile(filename);
+        if(file->open(QIODevice::ReadOnly))
+        {
 
+                {
+                    QString ba(file->readLine());
+                    ba=QString::fromStdString( ba.toStdString());
+                    float tmp=ba.toFloat();
+                    if(tmp>0 && tmp <10)
+                    {
+                        M=tmp;
+                    }
+
+                }
+
+
+
+            file->close();
+        }
+        file->deleteLater();
+    }
 
 
 }

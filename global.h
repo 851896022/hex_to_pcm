@@ -23,6 +23,7 @@ public:
     QString sharedMemKey[18];
     QProcess *pcmToMp3[200];
     int rebootcount=0;
+    float M=1.0;
 signals:
 
 public slots:

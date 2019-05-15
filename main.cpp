@@ -14,7 +14,7 @@ int main(int argc, char *argv[])
 
 
     QString log_dir;
-    log_dir=qApp->applicationDirPath()+"/log2/%1.log";
+    log_dir=qApp->applicationDirPath()+"/log_hex_to_pcm/%1.log";
     setDebugOutput( log_dir, true );
 
 
