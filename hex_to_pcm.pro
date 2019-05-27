@@ -8,7 +8,7 @@ QT       += core gui network
 
 greaterThan(QT_MAJOR_VERSION, 4): QT += widgets
 
-TARGET = hex_to_pcm
+TARGET = hex_to_pcm_32ch
 TEMPLATE = app
 
 # The following define makes your compiler emit warnings if you use
@@ -37,7 +37,7 @@ HEADERS += \
     lib/mpg123.h \
     rebootcontrol.h
 LIBS +=E:\myfile\FRH\Software\audio_full_link_monitoring_system\server\hex_to_pcm\lib\libmpg123.lib
-
+DESTDIR  = bin
 
 
 

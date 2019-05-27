@@ -184,7 +184,7 @@ int global::initPcmToMp3()
         QString workdir;
         workdir=qApp->applicationDirPath();
         QString program;
-        program="pcm_to_mp3.exe";
+        program="pcm_to_mp3_32ch.exe";
         //端口
         //名称
         //存储位置
