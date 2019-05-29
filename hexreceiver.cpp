@@ -145,34 +145,34 @@ void hexReceiver::onTimerOut()
 
         if((dataCache[0]==0xFB && dataCache[1]==0))//如果包头符合音频包格式
         {
-           qDebug()<<"包头符合FB00";
+           //qDebug()<<"包头符合FB00";
            if(dataCache.count()>10)
            {
-               qDebug()<<"长度大于10";
+               //qDebug()<<"长度大于10";
                if(dataCache[6]==0xFF && dataCache[7]==0xFB)
                {
-                   qDebug()<<"符合FFFB";
+                   //qDebug()<<"符合FFFB";
                    if(dataCache.count()>=594)
                    {
-                       qDebug()<<"处理音频594";
+                       //qDebug()<<"处理音频594";
                        decode(QByteArray(dataCache.data(),594));
                        dataCache.remove(0,594);
                    }
                    else//长度太短，跳出
                    {
-                       qDebug()<<"不足594";
+                       //qDebug()<<"不足594";
                        break;
                    }
                }
                else//不符合，不认识
                {
-                   qDebug()<<"不符合FFFB"<<QString::number( dataCache[7])<<QString::number(dataCache[8]);
+                   //qDebug()<<"不符合FFFB"<<QString::number( dataCache[7])<<QString::number(dataCache[8]);
                    dataCache.remove(0,1);
                }
            }
            else//长度太短，跳出
            {
-               qDebug()<<"不足10";
+               //qDebug()<<"不足10";
                break;
            }
         }
