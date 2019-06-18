@@ -36,7 +36,7 @@ HEADERS += \
     lib/mp3TOpcm.h \
     lib/mpg123.h \
     rebootcontrol.h
-LIBS +=E:\myfile\FRH\Software\audio_full_link_monitoring_system\server\hex_to_pcm\lib\libmpg123.lib
+LIBS +=C:\Users\furunhao\Documents\FRH\Software\audio_full_link_monitoring_system\server\hex_to_pcm\lib\libmpg123.lib
 
 
 
