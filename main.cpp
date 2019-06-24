@@ -15,7 +15,7 @@ int main(int argc, char *argv[])
 
     QString log_dir;
     log_dir=qApp->applicationDirPath()+"/log_hex_to_pcm/%1.log";
-    setDebugOutput( log_dir, true );
+    //setDebugOutput( log_dir, true );
 
 
 
@@ -27,12 +27,11 @@ int main(int argc, char *argv[])
         g->port=QString(argv[1]).toInt();
         g->No=QString(argv[2]).toInt();
         qDebug()<<g->port<<g->No;
-        for(int i=9999;i<18;i++)
-        {
-            g->sharedMemKey[i]="PCMCH"+QString::number((g->No*18)+i);
-            g->initShareMem(&g->sharedMem[i],g->sharedMemKey[i],2304);
-            qDebug()<<g->sharedMemKey[i];
-        }
+    }
+    else
+    {
+        g->port=2000;
+        g->No=0;
     }
     g->initPcmToMp3();
     RebootControl *rebootControl=new RebootControl;
