@@ -30,6 +30,26 @@ global::global(QObject *parent) : QObject(parent)
         file->deleteLater();
     }
 
+    QSettings setting(qApp->applicationDirPath()+"/sav/set.ini",QSettings::IniFormat);
+
+    QString tmp=setting.value("IP/alarm_IP").toString();//将读取出的数据进行使用;
+    if(tmp.isEmpty())
+    {
+        alarmIP="127.0.0.1";
+    }
+    else
+    {
+        alarmIP=tmp;
+    }
+    QString tmp2=setting.value("IP/server_IP").toString();//将读取出的数据进行使用;
+    if(tmp2.isEmpty())
+    {
+        serverIP="127.0.0.1";
+    }
+    else
+    {
+        serverIP=tmp2;
+    }
 
 }
 global::~global()

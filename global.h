@@ -11,6 +11,7 @@
 #include <QSystemSemaphore>
 #include <QProcess>
 #include <QApplication>
+#include <QSettings>
 class global : public QObject
 {
     Q_OBJECT
@@ -24,6 +25,8 @@ public:
     QProcess *pcmToMp3[200];
     int rebootcount=0;
     float M=1.0;
+    QString alarmIP="127.0.0.1";
+    QString serverIP="127.0.0.1";
 signals:
 
 public slots:

@@ -7,6 +7,21 @@ hexReceiver::hexReceiver(QObject *parent) : QObject(parent)
     udpSocketReceiver->bind(g->port);
 
     udpSocketSender=new QUdpSocket;
+    {
+        QString data;
+        data+="0|";
+        data+=QString::number(g->No);
+        data+="|";
+        for(int i=0;i<18;i++)
+        {
+            data+=QString::number(0);
+            data+="|";
+        }
+        data+=";";
+        udpSocketSender->writeDatagram(data.toLatin1(),QHostAddress("127.0.0.1"),2500);
+    }
+
+    //udpSocketSender->bind(QHostAddress(g->serverIP),(49990+g->No));
     pcm_to_mp3_IP="127.0.0.1";
     //----------------------
     decoder[0]=new CMP3ToPCM;
@@ -77,7 +92,7 @@ void hexReceiver::OnudpSocketReceive()
                         int port=50000+((num+chNo)*10);
                         udpSocketSender->writeDatagram((char*)output,(int)doneLen,QHostAddress("127.0.0.1"),port);
                         udpSocketSender->writeDatagram((char*)output,(int)doneLen,QHostAddress("127.0.0.1"),port+1);
-                        udpSocketSender->writeDatagram((char*)output,(int)doneLen,QHostAddress("127.0.0.1"),port+2);
+                        udpSocketSender->writeDatagram((char*)output,(int)doneLen,QHostAddress(g->alarmIP),port+2);
                         udpSocketSender->writeDatagram((char*)output,(int)doneLen,QHostAddress("127.0.0.1"),port+3);
                         ++g->rebootcount;
                     }
